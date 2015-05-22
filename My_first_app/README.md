@@ -1,0 +1,1 @@
+Cloud code project for My_first_app. Cloud Code Guide: https://cn.avoscloud.com/docs/cloud_code_guide.html
